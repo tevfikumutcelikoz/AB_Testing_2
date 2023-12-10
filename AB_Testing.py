@@ -1,4 +1,4 @@
-### AB Testing ###
+## AB Testing ##
 
 # What is AB Testing?
 # Fundamentally, an A/B test is the comparison of means and it compares two different groups. In concept,
